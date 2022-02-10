@@ -1,6 +1,7 @@
 # PHP-tutorial
 
 This is from PHP tutorial course with the following video.
+
 *[PHP For Absolute Beginners | Traversy Media](https://youtu.be/2eebptXfEvw)
 
 It covers the following topics about PHP.
